@@ -3,6 +3,7 @@
 <b>Tujuan : </b>
 <ul>
   <li>Memahami Penulisan Internal Style Javascript.</li>
+  <li>Memahami Fungsi getElementsByClassName().</li>
 </ul>
 
 <b>Output in browser : </b>
